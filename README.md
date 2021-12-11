@@ -10,11 +10,11 @@ Este repositório contem uma API RestFull desenvolvida como projeto de finaliza�
 
 
 
-![alt text](/home/felipeamorim/Imagens/movie_library.png)
+![alt text](/home/felipeamorim/Imagens/movie_library.jpg)
 
 
 
-Apartir desse esquema de classes podemos entender como utilizar os endpoints da API para servir o frontend da aplicação. Os parâmetros ImageUrl e Url apontam para urls para acessar a imagem da capa e arquivo de vídeo, respectivamente, contudo, a fim de simplificar, foi direcionado para endereços fictícios, sobre tudo para o arquivo de vídeo. 
+A partir desse esquema de classes podemos entender como utilizar os endpoints da API para servir o frontend da aplicação. Os parâmetros ImageUrl e Url apontam para urls para acessar a imagem da capa e arquivo de vídeo, respectivamente, contudo, a fim de simplificar, foi direcionado para endereços fictícios, sobre tudo para o arquivo de vídeo. 
 
 
 
