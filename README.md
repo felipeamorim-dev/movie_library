@@ -10,7 +10,7 @@ Este reposit√≥rio contem uma API RestFull desenvolvida como projeto de finaliza√
 
 
 
-![alt text](https://github.com/felipeamorim-dev/movie_library/tree/main/src/main/resources/assets/img)
+![alt text](https://github.com/felipeamorim-dev/movie_library/blob/main/src/main/resources/assets/img/movie_library.jpg)
 
 
 
