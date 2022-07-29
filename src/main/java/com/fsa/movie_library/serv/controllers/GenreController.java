@@ -1,6 +1,7 @@
 package com.fsa.movie_library.serv.controllers;
 
 import com.fsa.movie_library.serv.model.entities.dto.GenreDTO;
+import com.fsa.movie_library.serv.model.services.GenreService;
 import com.fsa.movie_library.serv.model.services.impl.GenreServiceImpl;
 import org.springframework.web.bind.annotation.*;
 
@@ -10,9 +11,9 @@ import java.util.List;
 @RequestMapping(path = "/genres")
 public class GenreController {
 
-    private GenreServiceImpl genreService;
+    private GenreService genreService;
 
-    public GenreController(GenreServiceImpl genreService) {
+    public GenreController(GenreService genreService) {
         this.genreService = genreService;
     }
 
